@@ -1,0 +1,50 @@
+PROJECT
+[
+    {
+        "projectId": "26b905db-7e49-4309-aa2e-fcb374273e1c",
+        "projectTitle": "Simple project",
+        "projectPurpose": "Juste a test",
+        "projectBegin": "2022-04-20",
+        "projectEnd": "2023-05-23"
+    },
+    {
+        "projectId": "337d4365-dbb6-4371-afc8-40e3fea2fbef",
+        "projectTitle": "Manage my project",
+        "projectPurpose": "Catch my progression every time",
+        "projectBegin": "2020-02-20",
+        "projectEnd": "2023-04-15"
+    },
+    {
+        "projectId": "096300a6-baae-47fc-ae79-40522e66c9c3",
+        "projectTitle": "Ok you can be fan",
+        "projectPurpose": "rk fine",
+        "projectBegin": "2001-07-10",
+        "projectEnd": "2023-05-21"
+    }
+]
+---------------------------------------------------------------------
+TASKS
+[
+    {
+        "taskId": "3c2e72c8-80f8-448b-b407-56a87a8ad175",
+        "taskTitle": "Simple project",
+        "taskPurpose": "Juste a test",
+        "taskBegin": "2022-04-20",
+        "taskEnd": "2023-05-22"
+    },
+    {
+        "taskId": "a627cdf5-def1-45da-a9af-f07de9bd2fc3",
+        "taskTitle": "Task 1",
+        "taskPurpose": "MAke a test",
+        "taskBegin": "2025-01-20",
+        "taskEnd": "2023-06-22"
+    },
+    {
+        "taskId": "e2b22be5-c2c1-44df-bd6b-a6122fd8d70d",
+        "taskTitle": "Task 2",
+        "taskPurpose": "Make a debug",
+        "taskBegin": "2022-01-20",
+        "taskEnd": "2023-06-22"
+    }
+]
+-----------------------------------------------------------------------
